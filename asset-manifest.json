@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/box-shadow-generator/static/css/main.f4663b2f.chunk.css",
+    "main.js": "/box-shadow-generator/static/js/main.008a3dc5.chunk.js",
+    "main.js.map": "/box-shadow-generator/static/js/main.008a3dc5.chunk.js.map",
+    "runtime-main.js": "/box-shadow-generator/static/js/runtime-main.1d1507fd.js",
+    "runtime-main.js.map": "/box-shadow-generator/static/js/runtime-main.1d1507fd.js.map",
+    "static/css/2.f4ae4707.chunk.css": "/box-shadow-generator/static/css/2.f4ae4707.chunk.css",
+    "static/js/2.69e7be47.chunk.js": "/box-shadow-generator/static/js/2.69e7be47.chunk.js",
+    "static/js/2.69e7be47.chunk.js.map": "/box-shadow-generator/static/js/2.69e7be47.chunk.js.map",
+    "index.html": "/box-shadow-generator/index.html",
+    "static/css/2.f4ae4707.chunk.css.map": "/box-shadow-generator/static/css/2.f4ae4707.chunk.css.map",
+    "static/css/main.f4663b2f.chunk.css.map": "/box-shadow-generator/static/css/main.f4663b2f.chunk.css.map",
+    "static/js/2.69e7be47.chunk.js.LICENSE.txt": "/box-shadow-generator/static/js/2.69e7be47.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d1507fd.js",
+    "static/css/2.f4ae4707.chunk.css",
+    "static/js/2.69e7be47.chunk.js",
+    "static/css/main.f4663b2f.chunk.css",
+    "static/js/main.008a3dc5.chunk.js"
+  ]
+}
